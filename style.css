@@ -94,3 +94,38 @@ margin-top:40px;
 .feature p{
 color:#9698a6;
 }
+
+.articles{
+background:#fafafa;
+padding:80px 0;
+}
+
+.articles-grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:30px;
+margin-top:40px;
+}
+
+.article{
+background:white;
+border-radius:8px;
+overflow:hidden;
+}
+
+.article img{
+width:100%;
+}
+
+.article-text{
+padding:20px;
+}
+
+.article-text span{
+font-size:12px;
+color:#9698a6;
+}
+
+.article-text h3{
+margin:10px 0;
+}
