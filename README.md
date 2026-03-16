@@ -70,8 +70,9 @@ Digitalbank-landing-page :
 ![Mobile Screenshot](images/mobile-screenshot.jfif)  
 
 **Optional Additional Screenshots:**  
-- Mobile menu open: `images/mobile-menu-screenshot.jfif`  
-- Articles section: `images/articles-screenshot.jfif`  
+![Mobile menu open](images/mobile-menu-screenshot.jfif) 
+![Articles section](images/articles-screenshot.jfif) 
+![Articles section  on desktop](images/articles-on-desktop.png)
 
 
 ---
