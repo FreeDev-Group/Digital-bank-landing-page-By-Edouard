@@ -82,7 +82,7 @@ Digitalbank-landing-page :
 1. Clone the repository:
 
 ```bash```
-git clone https://github.com/edouardkne/Digital-bank-landing-page-By-Edouard.git
+git clone https://github.com/FreeDev-Group/Digital-bank-landing-page-By-Edouard
 
 2. Navigate into the project folder:
         cd Digital-bank-landing-page-By-Edouard
